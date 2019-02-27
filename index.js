@@ -1,1 +1,4 @@
-// add solution here
+function theBeatlesPlay(arraymus,arrayins){
+  var x = []
+  
+}
